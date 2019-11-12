@@ -30,6 +30,7 @@ class MaoyanMovie():
                 f.write(a)
                 f.write(b)
                 f.write(c)
+        print('===========')
 
 
     def run(self):
